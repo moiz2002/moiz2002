@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Syed Abdul Moiz, student of computer science undergraduat and a  developer within depth experience in Mysql Database, web development and cross platform application
-- development. Love to write complex algorithms and process data in the databases. In a nutshell i make websites, applications and handle data of big organizations. Currently
-- i am working in DYS Solution , an ERP based company as a database analyst and application developer where main languages in my stack are PHP, Dart, firebase database and Mysql
+- 👋 Hi, I’m Syed Abdul Moiz, student of computer science undergraduat and a  developer within depth experience in Mysql Database, web development and cross platform application development. 
+Love to write complex algorithms and process data in the databases. In a nutshell i make websites, applications and handle data of big organizations. 
+Currently i am working in DYS Solutions , an ERP based company as a database analyst and application developer where main languages in my stack are PHP, Dart, firebase database and Mysql.
 - 
 
 <!---
