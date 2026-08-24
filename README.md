@@ -36,8 +36,8 @@
 ### GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.com/api?username=moiz2002&show_icons=true&theme=tokyonight&hide_border=true" alt="Moiz's Github Stats" />
-  <img height="165" src="https://github-readme-stats.com/api/top-langs/?username=moiz2002&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=moiz2002&show_icons=true&theme=tokyonight&hide_border=true" alt="Github Stats" />
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=moiz2002&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
