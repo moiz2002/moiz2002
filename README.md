@@ -8,9 +8,9 @@
 ### 🚀 About Me
 
 - 🛠️ **Core Focus:** Building high-throughput Node.js/Laravel backend microservices & modern reactive frontends (React / Next.js / Vue).
-- ☁️ **Cloud Infrastructure:** Architecting containerized cloud-native workflows using **AWS** (EC2, S3, RDS, ALB), Docker, & CI/CD automation.
-- 🗄️ **Data Architecture:** Designing schema-optimized relational databases using **PostgreSQL** & **MySQL** with strict concurrency controls.
-- 🎯 **Current Goal:** Elevating system architecture standards and scaling SaaS products.
+- ☁️ **Cloud & DevOps:** Architecting containerized cloud-native workflows on **AWS** & **GCP**, with multi-stage automated pipelines and zero-downtime rollbacks.
+- 🗄️ **Data Architecture:** Designing schema-optimized relational databases, NoSQL stores, & vector databases for AI/LLM workloads.
+- 🧪 **Quality Engineering:** Writing robust Unit and Feature test suites to ensure bulletproof production deployments.
 
 ---
 
@@ -19,11 +19,17 @@
 **Languages & Frameworks:**
 `Node.js` • `Express.js` • `Laravel` • `Core PHP` • `TypeScript` • `Python` • `React.js` • `Next.js` • `Vue.js` • `Tailwind CSS`
 
-**Databases & Caching:**
-`MySQL` • `PostgreSQL` • `Redis` • `Prisma ORM` • `Cloudflare R2`
+**Databases, NoSQL & AI Vectors:**
+`PostgreSQL` • `MySQL` • `MongoDB` • `Firebase Firestore` • `pgvector` • `Redis` • `Prisma ORM`
 
-**DevOps & Cloud Tools:**
-`AWS (EC2, S3, RDS, ALB, Fargate)` • `Docker` • `Kubernetes` • `Git` • `Linux (Ubuntu)` • `Nginx`
+**Cloud & Infrastructure:**
+`AWS (EC2, S3, RDS, ALB, Fargate)` • `Google Cloud Run` • `GCS (Google Cloud Storage)` • `Firebase` • `Cloudflare R2` • `Docker` • `Kubernetes` • `Nginx`
+
+**Deployments & CI/CD Pipelines:**
+`GitHub Actions` • `DeployBot` • `Multi-Stage Deployments (Dev / Staging / Prod)` • `Automated Rollbacks` • `Canary / Blue-Green Deployment Patterns`
+
+**Testing & QA:**
+`Unit Testing` • `Feature Testing` • `Integration Testing` • `Automated Test Suites (Jest, PHPUnit, Vitest)`
 
 ---
 
@@ -38,9 +44,8 @@
 
 ### 🤝 Connect & Collaborate
 
-- **Portfolio / Projects:** [Spireage](https://spireage.com) • [Vecreto](https://vecreto.com)
+- **Platforms:** [Spireage](https://spireage.com) • [Vecreto](https://vecreto.com)
 - **LinkedIn:** [Syed Abdul Moiz](https://linkedin.com)
-- **Email:** `your.email@example.com`
 
 ---
 <p align="center">
